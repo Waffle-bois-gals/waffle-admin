@@ -13,4 +13,4 @@ npm install
 npm run dev
 ```
 
-[https://dev-waffle.web.app/](web)
+### Link to [deployed web](https://dev-waffle.web.app/) app
